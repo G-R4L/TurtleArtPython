@@ -11,9 +11,13 @@ This repository hosts a variety of unique and captivating Turtle Art scripts wit
 - Easy-to-run and modifiable example scripts  
 - A learning hub and creative playground for Python Turtle enthusiasts  
 
-## 🌌 Void Galaxy
+## 🖼️ Sample Turtle Art
 
-![Void Galaxy](images/void_galaxy.png)  
+### 🌌 Void Galaxy  
+A mesmerizing spiral galaxy with vibrant, smoothly shifting colors.  
+![Void Galaxy](images/void_galaxy.png)
+
+…and many more to explore!
 
 ## 🚀 How to Run
 
@@ -21,3 +25,11 @@ Make sure you have Python 3 installed, then run any script with:
 
 ```bash
 python filename.py
+
+...
+
+---
+
+## 🙌 Credits
+Made with Python Turtle  
+Created and maintained by **G-R4L**
