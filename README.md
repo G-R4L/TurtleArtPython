@@ -19,17 +19,13 @@ A mesmerizing spiral galaxy with vibrant, smoothly shifting colors.
 
 …and many more to explore!
 
+## 🙌 Credits
+Made with Python Turtle  
+Created and maintained by **G-R4L**
+
 ## 🚀 How to Run
 
 Make sure you have Python 3 installed, then run any script with:
 
 ```bash
 python filename.py
-
-...
-
----
-
-## 🙌 Credits
-Made with Python Turtle  
-Created and maintained by **G-R4L**
