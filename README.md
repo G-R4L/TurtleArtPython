@@ -17,3 +17,8 @@ Make sure you have Python 3 installed, then run any script with:
 
 ```bash
 python filename.py
+
+---
+
+Made with Python Turtle,  
+Created and maintained by **G-R4L**
