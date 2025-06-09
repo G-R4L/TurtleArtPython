@@ -11,8 +11,8 @@ This repository hosts a variety of unique and captivating Turtle Art scripts wit
 - Easy-to-run and modifiable example scripts  
 - A learning hub and creative playground for Python Turtle enthusiasts  
 
-![Void Galaxy](images/void_galaxy.png)  
 *Void Galaxy*
+![Void Galaxy](images/void_galaxy.png)  
 
 ## 🚀 How to Run
 
