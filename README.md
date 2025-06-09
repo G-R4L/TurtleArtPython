@@ -14,8 +14,10 @@ This repository hosts a variety of unique and captivating Turtle Art scripts wit
 ## 🖼️ Sample Turtle Art
 
 ### 🌌 Void Galaxy  
-A mesmerizing spiral galaxy with vibrant, smoothly shifting colors.  
 ![Void Galaxy](images/void_galaxy.png)
+
+### 🎆 Explosion of beauty
+![Explosion of beauty](images/vg)
 
 …and many more to explore!
 
