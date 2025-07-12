@@ -21,9 +21,7 @@ This repository hosts a variety of unique and captivating Turtle Art scripts wit
 
 …and many more to explore!
 
-## 🙌 Credits
-Made with Python Turtle  
-Created and maintained by **G-R4L**
+
 
 ## 🚀 How to Run
 
