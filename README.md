@@ -2,7 +2,7 @@
 
 Welcome to **TurtleArtPython**, an open collection of stunning Python Turtle Graphics artworks!
 
-This repository hosts a variety of unique and captivating Turtle Art scripts with themes ranging from cosmic galaxies, geometric patterns, sakura blossoms, to cyberpunk and futuristic styles.
+This repository hosts a variety of unique and captivating Turtle Art scripts with themes ranging from Void Galaxy,Explosion of beauty,Iphone and much more...
 
 ## 🎨 What’s inside TurtleArtPython?
 
@@ -12,8 +12,6 @@ This repository hosts a variety of unique and captivating Turtle Art scripts wit
 - A learning hub and creative playground for Python Turtle enthusiasts  
 
 ## 🖼️ Sample Turtle Art
-
-### 🌌 Void Galaxy  
 ![Void Galaxy](images/void_galaxy.png)
 
 ![Explosion of beauty](images/-1.png)
